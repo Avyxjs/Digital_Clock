@@ -1,2 +1,2 @@
 # Digital_Clock
-Normal Digital clock.
+```Normal Digital clock, using html, css, and js```
